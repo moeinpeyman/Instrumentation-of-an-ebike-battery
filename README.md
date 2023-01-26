@@ -15,6 +15,7 @@
 ![image](https://user-images.githubusercontent.com/51812182/214784805-9e4964d6-5a13-4723-bdb9-bdd86739d378.png)
 
 ## SPI configuration for SD card in STM32CubeIDE:
+ref:https://01001000.xyz/2020-08-09-Tutorial-STM32CubeIDE-SD-card/
 
 ![image](https://user-images.githubusercontent.com/51812182/214784941-92ff7fd8-b2bb-4a21-9251-2232377ed1ea.png)
 
