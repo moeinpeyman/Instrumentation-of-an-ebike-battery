@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=Cpu.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Cpu.SchDoc|FileName=GPS.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Cpu.SchDoc|FileName=LoRa.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Cpu.SchDoc|FileName=Power.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Cpu.SchDoc|FileName=RealTime.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Cpu.SchDoc|FileName=SD.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Cpu.SchDoc|FileName=Sensors.SchDoc|SheetNumber=2
